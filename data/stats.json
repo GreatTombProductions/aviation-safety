@@ -1,0 +1,18 @@
+{
+  "total_incidents": 31039,
+  "accidents": 28628,
+  "incidents_only": 2411,
+  "total_deaths": 16895,
+  "total_serious_injuries": 5966,
+  "fatal_incidents": 6319,
+  "unique_operators": 11688,
+  "unique_tail_numbers": 29808,
+  "unique_aircraft_types": 8619,
+  "geocoded_records": 27706,
+  "year_range": [
+    2008,
+    2026
+  ],
+  "data_source": "NTSB Aviation Accident Database",
+  "last_updated": "01/10/08 00:00:00"
+}
